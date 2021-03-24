@@ -11,7 +11,7 @@ Para quem tem pouca experiência com desenvolvimento
 
 ### Verificar a sintaxe do seu projeto segue a norma da 42 com o norminette
 A Norminette é o programa que vai checar nossos programas para garantir que eles se adequam a norma da 42.  
-[Clique aqui para acessar o repositorio que exploca em detalhes](https://github.com/eduardomosko/norminette-tutorial)
+[Clique aqui para acessar o repositorio que explica em detalhes](https://github.com/eduardomosko/norminette-tutorial)  
 Tenho certeza que vamos sofrer MUITO com o norminete rsrs...  
 (Tutorial criado pelo wagnermaidson)
 
