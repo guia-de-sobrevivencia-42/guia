@@ -12,6 +12,7 @@
 ### C
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
+* [Linguagem C - Gabriel Skrilatt](https://www.youtube.com/watch?v=5RhWr9wdFYI&list=PLrqNiweLEMonijPwsHckWX7fVbgT2jS3P&index=1)
 
 ### Git
 
